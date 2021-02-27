@@ -1,4 +1,4 @@
-# Binary-Classification-using-CNN-for-beginners
+# Car Vs Truck-Classification-using-CNN-for-beginners
 
 ## Introduction
 Here a Convolutional Neural Network is implemented to perform the classification between car or truck.
