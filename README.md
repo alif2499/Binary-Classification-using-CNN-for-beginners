@@ -1,4 +1,4 @@
-# Car Vs Truck Image-Classification-using-Convolutional Neural Network-for-beginn
+# Car Vs Truck Image-Classification-using-Convolutional Neural Network-for-beginne
 
 ## Introduction
 Here, a Convolutional Neural Network is implemented to perform the classification between car or truck.
